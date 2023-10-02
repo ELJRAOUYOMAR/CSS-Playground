@@ -2,4 +2,4 @@
 
 Welcome to my awesome project! Here's a cool image:
 
-![Screenshot Of The Design](https://github.com/ELJRAOUYOMAR/CSS-Playground/assets/108769369/85f1f11d-d8c8-4ed6-b1a7-95d510a4900e.png)
+![ScreenshotOfDesign](https://github.com/ELJRAOUYOMAR/CSS-Playground/assets/108769369/c1b7db78-e49a-4752-98bd-5bbfb461bc1d)
