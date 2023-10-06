@@ -1,5 +1,3 @@
-## CSS-Playground
+﻿# CSS-Playground
 
-Welcome to my awesome project! Here's a cool image:
-
-![ScreenshotOfDesign](https://github.com/ELJRAOUYOMAR/CSS-Playground/assets/108769369/c1b7db78-e49a-4752-98bd-5bbfb461bc1d)
+![Screenshot 2023-10-02 123802](https://github.com/ELJRAOUYOMAR/CSS-Playground/assets/108769369/fba22458-71d4-41aa-b2b9-1d9319d27615)
